@@ -1,0 +1,8 @@
+	PROJECT_NAME     = "HTTP-SERVER"
+	PROJECT_BRIEF    = "Jednoduchý projekt, semestrální práce, sloužící jako HTTP-SERVER. Konfigurovatelný pomocí konfiguračního souboru. Zobrazí výpis adresáře, statický a dynamický obsah."
+	GENERATE_LATEX   = NO
+	HAVE_DOT         = YES
+	UML_LOOK         = YES
+	IMAGE_PATH       = "."
+	INPUT	         = src
+	OUTPUT_DIRECTORY = doc
